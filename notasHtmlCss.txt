@@ -101,6 +101,52 @@ Webpack: https://webpack.js.org/
 
 
 
+clase 2; que es el front-end?
+es el desarrollador que manejara las cosas del lado del cliente, es decir el navegador,
+es la intereccion con el cliente. 
+
+estandares que debe saber un fronted
+html, css y js.
+son estandares que entiende el navegador.
+
+framworks de css.
+fragmentos de css ya construidos, para agregarlos a los proyectos,
+y poder trabajar mas rapidos los proyectos.
+
+framworks y librerias de js.
+fragmentos ya construidos que hacen los procesos mas rapidos.
+
+prprocesadores de css.
+less, stylus y sass.
+tegnologias para usar css diferentes.
+
+compilador o empaquetadores de js.
+babel y webpack.
+
+clase 3, back-end.
+este trabaja del lado del servidor, es decir la logica
+al momento que el navegador hace una peticion.
+
+maneja lenguajes de programacion. se pueden trabajar diferentes lenjuages.
+
+frameworks; ayuda hacer cosas mas complejas y mas rapidas.
+
+ clase 4; full stack
+ desarrolladores que conocen tanto los lenguajes de frontend y backend.
+
+ clase 5; pagina estatica y pagina dinamica:
+
+estaticas; son todas las paginas que tienen informacion para consumir 
+y estas no van a cambiar, solo modificiones simples, estas paginas
+no estan conectadas a bases de datos, estas paginas se generan del 
+lado del servidor. son paginas informativas. landing pages.
+
+dinamicas; mas bien son aplicaciones, o web apps, 
+estas si estan conectadas a 
+usuarios, y genera base de datos-
+estas si generan interaccion con el usuario.
+
+clase 5; html, anatomia de una pagina web.
 
 
 

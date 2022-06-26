@@ -147,8 +147,13 @@ usuarios, y genera base de datos-
 estas si generan interaccion con el usuario.
 
 clase 5; html, anatomia de una pagina web.
+hypertext markup language, lenguaje de marcado de texto.
+la opcion de saltar entre contenidos, es una etiqueta.
 
-
+container:
+{header; logo, navigation.
+main content/ sidebar
+footer; ......}
 
 
 

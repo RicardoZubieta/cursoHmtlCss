@@ -163,8 +163,24 @@ index.html
 la pagina que el servidor siempre busacara sera el index.html
 por eso debemos iniciar con el index.html
 
+html lang; sinifica la traduccion del archivo.
+tabulador; es el espacio que dejamos.
+head; es un contenedor, todo lo importante para construis la pagina.
+las etiquetas metas son las etiquetas que se cierran solas: 
+charset "utf - 8 " es para caracteres especiales.
+<meta name="descripcion" content="esta pagina te mostrara fotos de gatos">
+esta etiqueta es la descripcion que aparece en la pagina al buscarla. 
+<meta name="robots" content="index, follow">; es una autorizacion para que robots de busqueda
+ ayuden a posicionar la pagina.
+<meta name="viewport" content="width=device-width, initial-scale=1.0">; ayuda a que la pagina
+se ajuste al equipo donde se esta viendo, es decir a la ventana.
+pero que no es visible para el usuario.
+<link rel="stylesheet" href="./css/style.css"> es la forma,
+en que seleccionamos la carpeta y el archivo donde estan nuestros estilos.
 
 
+
+body; es todo lo que el usuario puede ver, texto, imegenes, etc.
 
 
 

@@ -156,6 +156,14 @@ main content/ sidebar
 footer; ......}
 
 
+clase 6; index y su estructura basica.
+
+se recomienda que el primer archivo html, se llame
+index.html
+la pagina que el servidor siempre busacara sera el index.html
+por eso debemos iniciar con el index.html
+
+
 
 
 
